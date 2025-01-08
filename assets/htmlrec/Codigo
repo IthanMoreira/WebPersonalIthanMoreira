@@ -1,0 +1,91 @@
+    <!-- Diseño de la sección de proyectos -->
+    <section class="projects" id="projects">
+        <h2 class="heading">Ultimos <span>Proyectos</span>
+            <!-- <span class="animate scroll" style="--i:1;"></span> -->
+        </h2>
+
+        <div class="projects-container">
+
+            <div class="projects-box"><span class="animate scroll" style="--i:1;"></span>
+
+                <img src="assets\img\challenge-esenciadelcliente.png" alt="">
+
+                <div class="projects-layer">
+
+                    <a href="https://github.com/Antonio-Richaud/Challenge-Esenciadelcliente" target="_blank"
+                        rel="noopener noreferrer"><i class="bx bxl-github"></i></a>
+                    <!-- <a href="#"><i class='bx bx-link-external'></i></a> -->
+
+                </div>
+
+            </div>
+
+            <div class="projects-box"><span class="animate scroll" style="--i:1;"></span>
+
+                <img src="assets\img\challenge_robot-trading.png" alt="">
+
+                <div class="projects-layer">
+
+                    <a href="https://github.com/Antonio-Richaud/Challenge-Robot-Trading" target="_blank"
+                        rel="noopener noreferrer"><i class="bx bxl-github"></i></a>
+                    <!-- <a href="#"><i class='bx bx-link-external'></i></a> -->
+
+                </div>
+
+            </div>
+
+            <div class="projects-box"><span class="animate scroll" style="--i:3;"></span>
+
+                <img src="assets\img\interjum.png" alt="">
+
+                <div class="projects-layer">
+
+                    <!-- <a href="#" target="_blank" rel="noopener noreferrer"><i class='bx bxl-github'></i></a> -->
+                    <a href="https://interjum.com/"><i class="bx bx-link-external"></i></a>
+
+                </div>
+
+            </div>
+
+            <div class="projects-box"><span class="animate scroll" style="--i:4;"></span>
+
+                <img src="assets\img\jumbo.png" alt="">
+
+                <div class="projects-layer">
+
+                    <!-- <a href="#" target="_blank" rel="noopener noreferrer"><i class='bx bxl-github'></i></a> -->
+                    <a href="https://www.productosjumbo.com/"><i class="bx bx-link-external"></i></a>
+
+                </div>
+
+            </div>
+
+            <div class="projects-box"><span class="animate scroll" style="--i:5;"></span>
+
+                <img src="assets\img\inman-design.png" alt="">
+
+                <div class="projects-layer">
+
+                    <!-- <a href="#" target="_blank" rel="noopener noreferrer"><i class='bx bxl-github'></i></a> -->
+                    <a href="https://www.inmandesign.mx/"><i class="bx bx-link-external"></i></a>
+
+                </div>
+
+            </div>
+
+            <div class="projects-box"><span class="animate scroll" style="--i:6;"></span>
+
+                <img src="assets\img\hix.png" alt="">
+
+                <div class="projects-layer">
+
+                    <!-- <a href="#" target="_blank" rel="noopener noreferrer"><i class='bx bxl-github'></i></a> -->
+                    <a href="https://hixadventure.com/"><i class="bx bx-link-external"></i></a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
