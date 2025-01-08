@@ -1,2 +1,1 @@
-# Elrefugiotuniche
-Esta es la pagina web de una pyme de servicios en Chile
+# web personal de caracter profesional, se uso una plantilla de otra web 
