@@ -42,7 +42,21 @@ body{
     align-items: center;
     z-index: 100;
 }
-
+.libutton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    outline: none;
+    text-decoration: none !important;
+    color: #ffffff !important;
+    width: 120px;
+    height: 36px;
+    
+    border-radius: 16px;
+    background-color: #0A66C2;
+  }
 .header.sticky{
     background: var(--second-bg-color);
 }

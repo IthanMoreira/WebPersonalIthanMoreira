@@ -33,13 +33,14 @@ window.onscroll = () => {
             });
             // active sections for animation on scroll
             sec.classList.add('show-animate');
-        } else {
+        } 
+        /*else {
             // animation that repeats on scroll
             if(id!="home"){
                 sec.classList.remove('show-animate');
 
             }
-        }
+        }*/
     });
 
     let header = document.querySelector('header');
